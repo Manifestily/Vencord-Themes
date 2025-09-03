@@ -1,0 +1,1 @@
+Welcome to my vencord theme repo where i post my themes, as per any of my projects you are required to give me credit if used you are NOT authorized to change / modify / resell / claim as your own. This code unless authorised by Lucidd._. on discord
