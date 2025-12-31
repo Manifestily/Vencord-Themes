@@ -1844,7 +1844,7 @@ body {
     --active-2: hsla(0, 0%, 90%, 0.2);
     --message-hover: hsla(0, 0%, 100%, 0.05);
     --white-1: oklch(74% 0.11 90);
-    --white-2: oklch(85% 0.01 0);
+    --white-2: oklch(74% 0.11 90);
     --white-3: oklch(85% 0.01 0);
     --white-4: oklch(78% 0.01 0);
     --white-5: oklch(70% 0.01 0);
