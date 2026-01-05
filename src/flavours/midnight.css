@@ -3,6 +3,8 @@
  * Midnight flavour for Discord Modern Styling
  * @author Lucidd._.
 */
+
+@import url("https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/main.css");
 body {
     --font: 'figtree';
     --code-font: '';
