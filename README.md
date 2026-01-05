@@ -3,10 +3,14 @@ Welcome to my vencord theme repo where i post my themes, as per any of my projec
 
 Themes:
 * Aurora:
+  ```
   @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/aurora');
-
+  ```
 * Aurora Orange:
+  ```
   @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/aurora%20orange');
-
+  ```
 * Midnight:
+  ```
    @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/midnight.css');
+  ```
