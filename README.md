@@ -10,6 +10,10 @@ Themes:
   ```css
   @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/aurora%20orange');
   ```
+* Aurora Recolor:
+  ```css
+  @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/Aurora%20recolor.css');
+  ```
 * Midnight:
   ```css
    @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/midnight.css');
