@@ -4,11 +4,11 @@ Welcome to my vencord theme repo where i post my themes, as per any of my projec
 Themes:
 * Aurora:
   ```css
-  @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/aurora');
+  @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/aurora.css');
   ```
 * Aurora Orange:
   ```css
-  @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/aurora%20orange');
+  @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/aurora%20orange.css');
   ```
 * Aurora Recolor:
   ```css
