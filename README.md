@@ -18,3 +18,7 @@ Themes:
   ```css
    @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/midnight.css');
   ```
+* Transparent:
+  ```css
+  @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/transparent.css');
+  ```
