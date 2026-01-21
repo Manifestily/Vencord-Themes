@@ -1,0 +1,67 @@
+/**
+ * @name System24
+ * Transparent flavour for Discord Modern Styling
+ * @author Lucidd._.
+*/
+
+@import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/main.css');
+
+:root {
+  --bg-1: transparent !important;
+  --bg-2: rgba(30,30,30,0.6) !important;
+  --bg-3: rgba(30,30,30,0.4) !important;
+  --bg-4: rgba(30,30,30,0.4) !important;
+  --bg-overlay-app-frame: transparent !important;
+  --bg-overlay-floating: rgba(30,30,30,0.4) !important;
+  --bg-overlay-chat: rgba(30,30,30,0.3) !important;
+  --chat-background-default: rgba(30,30,30,0.2) !important;
+  --dark-background-accent: rgba(50,50,50,0.9);
+  --dark-status-panel: rgba(30,30,30,0.4);
+  --text-0: #ffffff;
+  --text-1: #cccccc;
+  --text-2: #999999;
+  --panel-blur: on;
+  --blur-amount: 16px;
+}
+
+body {
+  backdrop-filter: blur(var(--blur-amount));
+  background-color: transparent !important;
+}
+
+.chatContent_f75fb0,
+.container_f369db {
+  background-color: transparent !important;
+  backdrop-filter: blur(var(--blur-amount));
+}
+
+.unread__2ea32, .unreadImportant__2ea32 {
+  animation: DotAnimation 2s cubic-bezier(.33,.37,.19,.97) alternate infinite;
+}
+
+.contents_c19a55 > .messageContent_c19a55 {
+  background: none !important;
+  padding: 0 !important;
+  margin-left: 0px !important;
+  display: block !important;
+}
+
+
+
+.messageListItem__5126c[data-is-self="true"] .contents_c19a55 > .messageContent_c19a55 {
+  background-color: transparent !important;
+}
+
+.toolbar__9293f {
+  background-color: rgba(30,30,30,0.2) !important;
+  backdrop-filter: blur(10px);
+}
+
+.panels_c48ade {
+  background-color: rgba(30,30,30,0.3) !important;
+  backdrop-filter: blur(10px);
+}
+
+.root_bfe55a, .app_b1f720, .layers__1c917 {
+  background-color: transparent !important;
+}
