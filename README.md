@@ -12,7 +12,7 @@ Themes:
   ```
 * Aurora Recolor:
   ```css
-  @import url('https://raw.githubusercontent.com/Luciddilyy/Vencord-Themes/refs/heads/main/src/flavours/Aurora%20recolor.css');
+  @import url('https://github.com/Manifestily/Vencord-Themes/blob/main/src/flavours/Aurora%20recolor.css');
   ```
 * Midnight:
   ```css
