@@ -64,3 +64,9 @@
 .container__5e434 > div[style]:not(.base__5e434) + .base__5e434 .content__5e434 {
   margin-top: calc(var(--serverlist-offset) * 2);
 }
+
+
+:root {
+  --HSL-server-direction: column; /* Direction of the server list. | OPTIONS: column, column-reverse | DEFAULT: column */
+  --HSL-server-alignment: flex-start; /* Alignment of the server list. | OPTIONS: flex-start, center, flex-end | DEFAULT: flex-start */
+}
